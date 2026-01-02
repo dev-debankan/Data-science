@@ -1,0 +1,5 @@
+APIs (REST APIs, GRAPHQL)
+WEB SCRAPPING(Beautiful Soup, Scrappy ,Selenium)
+WebBooks
+Manual Entry 
+File Handeling
